@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="OOP-Concepts" />
+		<Option title="Classes and Objects" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/OOP-Concepts" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/Classes and Objects" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -17,7 +17,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/OOP-Concepts" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/Classes and Objects" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -34,11 +34,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="include/Box.h" />
+		<Unit filename="include/dynArr.h" />
 		<Unit filename="main.cpp" />
-		<Unit filename="src/Box.cpp" />
-		<Extensions>
-			<lib_finder disable_auto="1" />
-		</Extensions>
+		<Unit filename="src/dynArr.cpp" />
+		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
