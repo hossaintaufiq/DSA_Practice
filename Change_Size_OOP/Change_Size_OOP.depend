@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1727310319 source:d:\versity\5th sem\dsa-l\practice\change_size_oop\main.cpp
+	<iostream>
+	"dynArr.h"
+	"dynArr.cpp"
+
+1727308694 d:\versity\5th sem\dsa-l\practice\change_size_oop\dynarr.h
+
+1727310044 source:d:\versity\5th sem\dsa-l\practice\change_size_oop\dynarr.cpp
+	"dynArr.h"
+	<bits/stdc++.h>
+
+1727310373 d:\versity\5th sem\dsa-l\practice\change_size_oop\dynarr.cpp
+	"dynArr.h"
+	<iostream>
+

@@ -7,9 +7,9 @@ private:
     int size;
 public:
     dynArr();
-    dynArr(int);
+    dynArr(int s);
     ~dynArr();
-    void setValue(int, int);
-    int getValue(int);
+    void setValue(int index, int value );
+    int getValue(int index);
 };
 #  endif // DYNARR_H_INCLUDED
