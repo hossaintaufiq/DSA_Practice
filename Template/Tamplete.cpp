@@ -1,26 +1,31 @@
 #include "Tamplete.h"
 using namespace std;
-Tamplete::Tamplete()
+
+template<class T>
+Tamplete<T>::Tamplete()
 {
-    data=NULL;
+    data=nullptr;
     size=0;
 }
-
-Tamplete::Tamplete(int s){
-    data=new int[s];
-    s=size;
+template <class T>
+Tamplete<T>::Tamplete(int s){
+    data=new T[s];
+    size=s;
 }
 
-Tamplete::~Tamplete()
+template <class T>
+Tamplete<T>::~Tamplete()
 {
     delete[] data;
 }
 
+template <class T>
+void Tamplete<T>::setValue(int index,T value){
 
-void Templete::setValue(int index, int value){
     data[index]=value;
 }
 
-int Templete::getValue(int index){
+template <class T>
+T Tamplete<T>::getValue(int index){
 return data[index];
 }

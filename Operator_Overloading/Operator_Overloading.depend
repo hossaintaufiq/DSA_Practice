@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1727329273 source:d:\versity\5th sem\dsa-l\practice\operator_overloading\src\complex.cpp
+	"Complex.h"
+	<bits/stdc++.h>
+
+1727329020 d:\versity\5th sem\dsa-l\practice\operator_overloading\include\complex.h
+
