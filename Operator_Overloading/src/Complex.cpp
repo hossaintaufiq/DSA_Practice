@@ -19,7 +19,15 @@ Complex Complex::operator+(Complex a){
     t.imaginary= imaginary+a.imaginary;
     return t;
 
+}/*
+
+bool Complex::operator!=(Complex a){
+    if(real == a.real && imaginary== a.imaginary){
+        return true;
+    }
+    else return false ;
 }
+*/
 
 void Complex::print(){
     cout<<"Real : "<<real<<endl;

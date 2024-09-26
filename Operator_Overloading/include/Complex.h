@@ -8,6 +8,7 @@ public:
     Complex();
     Complex(double r, double i);
     Complex operator+(Complex);
+    // bool operator!=(complex);
     void print();
 
 private:
