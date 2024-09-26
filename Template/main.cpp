@@ -1,4 +1,6 @@
 #include <iostream>
+#include "Tamplete.h"
+#include "Tamplete.cpp"
 
 using namespace std;
 
