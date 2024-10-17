@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    dynArr Array1();
+    dynArr Array1(0);
     dynArr Array2(5);
 
     int value;
