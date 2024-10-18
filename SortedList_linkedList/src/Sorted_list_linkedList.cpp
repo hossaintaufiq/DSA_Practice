@@ -117,4 +117,5 @@ pointTo = head;
 template<class T>
 void Sorted_list_linkedList<T>::Reset{
     pointTo=nullptr;
+
 }
