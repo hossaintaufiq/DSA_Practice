@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1729277701 source:d:\versity\5th sem\dsa-l\practice\unsortedtype\main.cpp
+	<iostream>
+	"src/UnsortedType.cpp"
+
+1729277763 source:d:\versity\5th sem\dsa-l\practice\unsortedtype\src\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+
+1729277684 d:\versity\5th sem\dsa-l\practice\unsortedtype\include\unsortedtype.h
+
+1729277763 d:\versity\5th sem\dsa-l\practice\unsortedtype\src\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+

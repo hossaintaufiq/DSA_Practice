@@ -1,7 +1,7 @@
-#include<iostream>
 #include "UnsortedType.h"
-using namespace std;
+#include<iostream>
 
+using namespace std;
 
 template <class T>
 UnsortedType<T>::UnsortedType()
@@ -77,9 +77,9 @@ void UnsortedType<T>::Reset()
     pointTo = -1;
 }
 
-template<class T>
+template <class T>
 void UnsortedType<T>::printList(){
     for(int i=0;i<currentSize;i++){
-        cout<<data[i]<<" ";
+       cout<<data[i]<<" ";
     }
 }

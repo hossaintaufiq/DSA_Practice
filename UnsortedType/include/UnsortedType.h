@@ -1,7 +1,6 @@
 #ifndef UNSORTEDTYPE_H
 #define UNSORTEDTYPE_H
 
-
 const int SIZE = 5;
 template <class T>
 class UnsortedType
