@@ -1,6 +1,5 @@
 #ifndef UNSORTEDTYPE_H
 #define UNSORTEDTYPE_H
-#include "unsortedType.cpp"
 
 
 const int SIZE = 5;
@@ -22,6 +21,7 @@ public:
  void Search(T value, bool &found);
  void GetNext(T &value);
  void Reset();
+ void PrintList();
 };
 
 #endif // UNSORTEDTYPE_H

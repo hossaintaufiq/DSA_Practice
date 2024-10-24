@@ -1,10 +1,29 @@
 # depslib dependency file v1.0
-1729742098 source:d:\versity\5th sem\dsa-l\practice\unsortedtype\unsortedtype.cpp
-	"unsortedType.h"
+1729743099 source:d:\versity\5th sem\dsa-l\practice\unsortedtype\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
 
-1729742203 d:\versity\5th sem\dsa-l\practice\unsortedtype\unsortedtype.h
-	"unsortedType.cpp"
+1729743000 d:\versity\5th sem\dsa-l\practice\unsortedtype\unsortedtype.h
 
-1729742098 d:\versity\5th sem\dsa-l\practice\unsortedtype\unsortedtype.cpp
-	"unsortedType.h"
+1729745453 source:d:\versity\5th sem\dsa-l\practice\unsortedtype\student.cpp
+	"Student.h"
+	<bits/stdc++.h>
+
+1729745285 d:\versity\5th sem\dsa-l\practice\unsortedtype\student.h
+	<bits/stdc++.h>
+
+1729745519 source:d:\versity\5th sem\dsa-l\practice\unsortedtype\main.cpp
+	<iostream>
+	"UnsortedType.h"
+	"UnsortedType.cpp"
+	"Student.h"
+	"Student.cpp"
+
+1729743099 d:\versity\5th sem\dsa-l\practice\unsortedtype\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+
+1729745453 d:\versity\5th sem\dsa-l\practice\unsortedtype\student.cpp
+	"Student.h"
+	<bits/stdc++.h>
 
