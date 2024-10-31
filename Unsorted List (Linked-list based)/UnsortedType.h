@@ -25,5 +25,7 @@ public:
     void MakeEmpty();
     void GetNext(T &value);
     void Reset();
+    void PrintList();
+
 };
 #endif // UNSORTEDTYPE_H

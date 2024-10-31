@@ -109,3 +109,14 @@ void UnsortedType<T>::Reset()
 {
     pointTo = NULL;
 }
+
+template<class T>
+void UnsortedType<T>::PrintList(){
+    Node*temp=head;
+    while(temp!=nullptr){
+        cout<<temp->data<<" ";
+        temp=temp->next;
+    }
+    cout<<endl;
+}
+

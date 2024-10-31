@@ -1,15 +1,15 @@
 # depslib dependency file v1.0
-1730271253 source:d:\versity\5th sem\dsa-l\practice\unsorted list (linked-list based)\main.cpp
+1730347170 source:d:\versity\5th sem\dsa-l\practice\unsorted list (linked-list based)\main.cpp
 	<iostream>
-	"UnsortedType.h"
+	"UnsortedType.cpp"
 
-1730271172 d:\versity\5th sem\dsa-l\practice\unsorted list (linked-list based)\unsortedtype.h
+1730345123 d:\versity\5th sem\dsa-l\practice\unsorted list (linked-list based)\unsortedtype.h
 
-1730271243 d:\versity\5th sem\dsa-l\practice\unsorted list (linked-list based)\unsortedtype.cpp
+1730345123 d:\versity\5th sem\dsa-l\practice\unsorted list (linked-list based)\unsortedtype.cpp
 	"UnsortedType.h"
 	<iostream>
 
-1730271243 source:d:\versity\5th sem\dsa-l\practice\unsorted list (linked-list based)\unsortedtype.cpp
+1730345123 source:d:\versity\5th sem\dsa-l\practice\unsorted list (linked-list based)\unsortedtype.cpp
 	"UnsortedType.h"
 	<iostream>
 
